@@ -1,7 +1,7 @@
-import Image from "next/image";
+import RegisterPage from "./register/page";
 
 export default function Home() {
   return (
-    <h1>Home Page</h1>
+    <RegisterPage/>
   );
 }
